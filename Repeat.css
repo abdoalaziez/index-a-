@@ -1,0 +1,754 @@
+.re img{
+ height: 80px;
+ width: 200px;
+margin-left: 40px;
+margin-top: 30px;
+}
+.Help img{
+    margin-left: 180px;
+    margin-top: -10px;
+    height: 160px;
+    width: 150px;
+}
+.Run a{
+    padding: 20px;
+    color: rgb(141, 139, 136);
+}
+.Run {
+    margin-left: 400px;
+    margin-top: -80px;
+}
+.body a {
+    margin-left: 1000px;
+   color: #a49696;
+}
+.body {
+    margin-top: -10px;
+}
+.Edit{
+   
+}
+.Edit{
+    color: #0d3970;
+}
+.GO img{
+    margin-left: 600px;
+    margin-top: -300px;
+    width: 500px;
+    height: 500px;
+    border-radius: 100px;
+}
+.Good{
+    margin-top: -500px;
+    margin-left: 250px;
+    font-size: 30px;
+}
+.Ok{
+    margin-left: 250px;
+    font-size: 25px;
+    color: #5a5353;
+}
+.YES{
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.Hi{
+    margin-top: 200px;
+    margin-left: 500px;
+    font-size: 25px;
+    color: #a49696;
+}
+.UPF img{
+    margin-left: 200px;
+    height: 70px;
+    width: 100px;
+    color: #a49696;
+}
+.UPF img{
+    margin-top: 20px;
+}
+.oo{
+    margin-left: 1250px;
+    margin-top: -50px;
+}
+.in{
+    margin-top: -3px;
+    margin-left: 10px;
+    height: 600px;
+    width: 1500px;
+    background-color: rgb(218, 219, 216);
+}
+.File img{
+   margin-top: -900px;
+   height: 400px;
+   margin-left: 200px;
+}
+.File{
+    margin-top: -80px;
+}
+.Terminal {
+    background-color: #8a54ae;
+    margin-left: 1000px;
+    margin-top: -400px;
+    width: 350px;
+}
+.Terminal {
+    margin-top: -230px;
+}
+.View img{
+    margin-top: 120px;
+    border-radius: 200vh;
+    margin-left: 200px;
+}
+.nav {
+margin-top: -550px;
+margin-left: 200px;
+font-size: 35px;
+}
+.dit{
+    margin-left: 200px;
+   color: rgb(61, 61, 56);
+}
+.to P{
+   padding: 15px;
+   font-size: 25px;
+}
+.to {
+    margin-top: 250px;
+    margin-left: 1050px;
+}
+.for {
+    margin-left: 1000px;
+    margin-top: -230px;
+    
+}
+.Add img{
+    margin-left: 1000px;
+    margin-top: 40px;
+    border-radius: 200vh;
+}
+.XZ {
+    margin-left: 1000px;
+    margin-top: 25px;
+}
+.this {
+    margin-left: 600px;
+    margin-top: 20px;
+    position: absolute;
+   
+}
+.it {
+    margin-left: 300px;
+}
+.of i{
+
+    position: absolute;
+    margin-left: 380px;
+    margin-top: 80px;
+    
+}
+.of span{
+    position: absolute;
+    margin-top: 170px;
+    display: block;
+    margin-left: 400px;
+    font-size: 30px;
+}
+.of i{
+   /* height: 400px;
+   width: 400px; */
+   font-size:100px;
+   color: rgb(129, 175, 175);
+   
+}
+.Apple i{
+  
+    margin-left: 800px;
+    margin-top: 75px;
+    font-size: 100px;
+    color: rgb(154, 112, 58);
+}
+.Apple span{
+    display: block;
+    margin-left: 830px;
+    font-size: 20px;
+}
+.Apples i{
+    margin-left: 1230px;
+    margin-top: -400px;
+font-size: 100px;
+color: rgb(81, 218, 209);
+}
+.Apples span{
+    display: block;
+    margin-left: 1250px;
+    font-size: 20px;
+}
+.apps a{
+    padding: 150px;
+    margin-left: 90px;
+}
+.TOO{
+    width: 350px;
+    height: 3px;
+    background-color: aqua;
+    margin-left: 300px;
+}
+.of{
+    margin-top: 50px;
+}
+.ss{
+    width: 300px;
+    height: 3px;
+    background-color: rgb(11, 12, 12);
+    margin-left: 700px;
+}
+.yy{
+    width: 300px;
+    height: 3px;
+    background-color: rgb(11, 12, 12);
+    margin-left: 1100px;
+}
+.Love {
+    margin-left: 550px;
+    margin-top: 60px;
+}
+.you{
+    margin-top: -400px;
+    margin-left: 150px;
+    color: #3a3f5e;
+}
+.your {
+    margin-left: 150px;
+    margin-top: 60px;
+    color: rgb(114, 130, 147);
+}
+.one{
+    background-color: rgb(135, 225, 219);
+    border: 1.50px solid #388a8a;
+    border-radius: 30px;
+  height: 50px;
+  width: 160px;
+}
+.one li{
+    list-style: none;
+     text-align: center;
+  margin-top: 18px;
+  margin-left: -40px;
+}
+.one i{
+    color: aquamarine;
+    font-size: 60px;
+    position: absolute;
+    margin-top: -139px;
+    margin-left: -5px;
+    padding: 100px   
+}
+.Read {
+    margin-left: -170px;
+    margin-top: 300px;
+    width: 1520px;
+    height: 350px;
+    background-color: rgb(142, 66, 203);
+}
+.Read button{
+    margin-left: 1000px;
+    margin-top: 200px;
+    border-radius: 40px;
+    height: 70px;
+    width: 230px;
+}
+.Read p{
+    margin-left: 200px;
+    margin-top: -200px;
+    padding: 100px;
+   font-size: 25px;
+  color: rgb(208, 217, 224);
+}
+.Read i{
+    margin-left: 950px;
+    margin-top: -120px;
+    position: absolute;
+    color: aqua;
+}
+.OPM{
+    margin-left: 350px;
+    font-size: 20px;
+}
+.OPM h2{
+    margin-left: 220px;
+    color: #141620;
+}
+.OPM img{
+    margin-left: -200px;
+    margin-top: 70px;
+    height: 400px;
+    width: 400px;
+}
+.OPM nav{
+    margin-left: 500px;
+    margin-top: -400px;
+    color: #191b29;
+}
+.eays{
+    margin-left: 500px;
+    margin-top: 80px;
+}
+.eays button{
+    margin-left: 0px;
+    margin-top: -100px;
+    border-radius: 40px;
+    height: 40px;
+    width: 180px;
+    background-color: rgb(202, 225, 225);
+}
+.eays i{
+    margin-top: -5px;
+    margin-left: -45px;
+    position: absolute;
+    width: 100px;
+    height: 80px;
+    font-size: 40px;   
+}
+.Code img{
+    margin-left: 400px;
+    margin-top: 300px;
+    width: 400px;
+    height: 300px;
+}
+.Code h2{
+    margin-left: -180px;
+    margin-top: -300px;
+    font-size: 20px;
+}
+.Code p{
+    margin-left: -200px;
+    margin-top: -10px;
+    padding: 10px;
+    font-size: 20px;
+}
+.Code button {
+    margin-left: -180px;
+    margin-top: -180px;
+    border-radius: 40px;
+    height: 40px;
+    width: 180px;
+    background-color: rgb(169, 202, 202);
+}
+.Code i{
+    margin-left: -45px;
+  font-size: 50px;
+  position: absolute;
+  margin-top: -10px;
+}
+.obj{
+    margin-top: 250px;
+    margin-left: 450px;
+}
+.obj h2{
+    margin-left: -3px;
+    font-size: 20px;
+}
+.obj img{
+    margin-left: -600px;
+    margin-top: -200px;
+    height: 300px;
+    width: 300px;
+}
+.obj button{
+    position: absolute;
+    margin-left: 300px;
+    margin-top: -5px;
+    border-radius: 40px;
+    height: 40px;
+    width: 180px;
+    background-color: rgb(36, 119, 187);
+    color: aliceblue;
+}
+.obj i{
+    margin-left: 435px;
+    margin-top: -10px;
+    position: absolute;
+  font-size: 50px;
+  color: aliceblue;
+}
+.big h2{
+   margin-left: 100px;
+   color: #1a1e3d;
+}
+.big{
+    margin-top: 150px;
+}
+.jojo i{
+    margin-left: -500px;
+    margin-top: -300px;
+    color: rgb(77, 152, 171);
+    padding: 350px;
+    font-size: 50px;
+    rotate: 50deg;
+}
+.ase i{
+    margin-top: -380px;
+    margin-left: 250px;
+    font-size: 50px;
+    position: absolute;
+    color: rgb(243, 153, 36);
+}
+.Tree i{
+    margin-left: 650px;
+    margin-top: -380px;
+    position: absolute;
+    font-size: 50px;
+    color: aqua;
+}
+.name {
+    background-color: aqua;
+    height: 1px;
+    width: 350px;
+    margin-top: -300px;
+    margin-left: -300px;
+}
+.umran {
+    background-color: rgb(199, 206, 206);
+    height: 2px;
+    width: 350px;
+    margin-top: 1px;
+    margin-left: 100px;
+}
+.jo {
+    background-color: rgb(209, 215, 215);
+    height: 2px;
+    width: 350px;
+    margin-top: 1px;
+    margin-left: 500px;
+}
+.Shy {
+    margin-left: -1100px;
+    rotate: 600deg;
+    margin-top: -800px;
+}
+.Sliy {
+    margin-top: 490px;
+    margin-left: -280px;
+}
+.G {
+    margin-left: -280px;
+    margin-top: 40px;
+}
+.j {
+    margin-left: -280px;
+    margin-top: 50px;
+}
+.Sliy h1{
+    margin-left: -50px;
+    font-size: 20px;
+   
+}
+.Sliy i{
+ margin-left: -50px;
+ margin-top: -140px;
+ position: absolute;
+ font-size: 40px;
+ color: rgb(20, 20, 177);
+}
+.G i{
+   margin-top: -135px;
+   position: absolute;
+   margin-left: -50px;
+   font-size: 40px;
+   color: rgb(20, 20, 177)
+}
+.j i{
+    margin-top: -50px;
+    position: absolute;
+    margin-left: -50px;
+    font-size: 40px;
+    color: rgb(20, 20, 177)
+}
+.School{
+    margin-top: 300px;
+    margin-left: -200px;
+}
+.School h2{
+    margin-left: -8px;
+}
+.School i{
+    margin-left: 900px;
+    padding: 10px;
+    margin-top: -80px;
+   font-size: 50px;
+    position: absolute;
+    color: aqua;
+}
+.op i{
+    margin-left: 750px;
+    margin-top: -70px;
+    position: absolute;
+    font-size: 50px;
+    color: aqua;
+}
+.jack {
+    height: 70px;
+    width: 100px;
+   background-color: #e2e5f4;
+    margin-left: -200px;
+}
+.jack img{
+    margin-left: -30px;
+    margin-top: 1px;
+    width: 330px;
+    height: 180px;
+}
+.ys {
+    height: 400px;
+    width: 300px;
+   background-color: #e2e5f4;
+    margin-left: -200px;
+}
+.icons {
+    margin-top: -400px;
+    height: 400px;
+    width: 300px;
+   background-color: #e2e5f4;
+    margin-left: 180px; 
+}
+.icons img{
+    height: 180px;
+    width: 300px;
+    margin-left: 0px;
+    margin-top: -70px;
+}
+.Cod {
+    margin-top: -400px;
+    height: 400px;
+    width: 300px;
+   background-color: #e2e5f4;
+    margin-left: 550px; 
+}
+.Cod img{
+    margin-top: -70px;
+    height: 180px;
+    width: 300px;
+    margin-left: 1px;
+}
+.Cod h3{
+    margin-top: 30px;
+    border-radius: 200px;
+    position: absolute;
+    color: #1a1e3d;
+}
+.Cod h6{
+    margin-top: 80px;
+}
+.icons h6{
+    margin-top: 80px;
+}
+.icons h3{
+    margin-top: 30px;
+    position: absolute;
+    color: #1a1e3d;
+}
+.TITLE{
+    margin-left: -200px;
+    margin-top: -280px;
+}
+.TITLE h3{
+margin-top: 30px;
+position: absolute;
+color: #1a1e3d;
+}
+.TITLE h6{
+    margin-top: 80px;   
+}
+.had img{
+height: 70px;
+width: 150px;
+margin-top: 130px;
+}
+.nam img{
+    margin-top: -200px;
+    height: 100px;
+    width: 100px;
+    margin-left: 15px;
+}
+.COMP img{
+    margin-top: -90px;
+    height: 70px;
+    width: 150px;
+    margin-left: 180px;
+    position: absolute;
+}
+.names img{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    margin-left: 400px;
+    margin-top: -100px;
+}
+.Live img{
+    position: absolute;
+    margin-left: 550px;
+    margin-top: -80px;
+    height: 70px;
+    width: 150px;
+}
+.Ln img{
+    margin-left: 770px;
+    margin-top: -100px;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+}
+.mz {
+ 
+    margin-left: -500px;
+    height: 800px;
+    width: 1500px;
+    margin-top: 100px;
+   background-color: rgb(104, 89, 217);
+}
+.mz h3{
+    position: absolute;
+margin-top: 200px;
+position: absolute;
+margin-left: 350px;
+color: #e2e5f4;
+}
+.mz h2{
+    position: absolute;
+    margin-top: 230px;
+    position: absolute;
+    font-size: 20px;
+    margin-left: 350px;
+    color: #e2e5f4;
+}
+.mz button{
+    margin-left: 1000px;
+    margin-top: 200px;
+    border-radius: 40px;
+    height: 70px;
+    width: 230px;
+}
+.mz i{
+    margin-left: -290px;
+    margin-top: 250px;
+    position: absolute;
+    rotate: -20deg;
+    color: rgb(39, 195, 201);
+}
+.mc {
+    height: 1px;
+    width: 1100px;
+    background-color: #cfd9d9;
+    margin-top: -500px;
+   margin-left: -300px;
+}
+.mv{
+    margin-left: -300px;
+   margin-top: 90px;
+   color: #cfd9d9;
+}
+.mb {
+margin-top: -160px;
+color: #cfd9d9;
+}
+.mn{
+    margin-left: 300px;
+    margin-top: -120px;
+    color: #cfd9d9;
+}
+.ma {
+margin-left: 650px;
+margin-top: -160px;
+color: #cfd9d9;
+}
+
+.Edit button{
+    position: absolute;
+    margin-top: -35px;
+    width: 170px;
+    padding: 10px;
+    display: flex;
+    margin-left: 1100px;
+    border: 3.200px solid #6e6e82;
+    border-radius: 20px;
+    border-radius: 40px;
+    color: #8a54ae;
+    text-align: center;
+    font-size: 15px;
+} 
+.mk{
+    background-color: #1779f9;
+    margin-left: 1000px;
+    margin-top: 1100px;
+    width: 350px;
+    height: 200px;
+    position: absolute;
+} 
+.mk h6{
+margin-left: 80px;
+font-size: 20px;
+color: #cfd9d9;
+}
+.mk p{
+    margin-top: -10px;
+    margin-left: 30px;
+    color: #cfd9d9;
+}
+.mk img{
+    margin-top: -150px;
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    border-radius: 200px;
+    margin-left: 20px;
+}
+.ma img{
+    height: 50px;
+    width: 200px;
+    margin-left: -550px;
+    position: absolute;
+    padding-top: 50px;
+}
+.GO {
+    font-size: 20px;
+    margin-left: 350px;
+  margin-top: 200px;
+}
+ .go-btn{
+    position: absolute;
+    font-size: 20px;
+    margin-top: 30px;
+    border-radius: 40px;
+    height: 70px;
+    width: 280px;
+    background-color: rgb(109, 80, 207) !important;
+    color: #cfd9d9;
+}
+ .Run button{
+    margin-left: 800px;
+    position: absolute;
+    border-radius: 40px;
+    height: 50px;
+    width: 200px;
+    font-size: 15px;
+    color: #a041e0;
+    font-family: serif;
+ }
+ .Lk i{
+ margin-left: 230px;
+ margin-top: 45px; 
+font-size: 40px;
+position: absolute;
+color: #cfd9d9;
+ }
+ .Sliy img{
+margin-top: -400px;
+   margin-left: 600px;
+ }
+ .Sliy h1{
+    margin-top: -400px;
+ }
+ .j p{
+  margin-top: -100px;
+ }
